@@ -16,4 +16,4 @@ docker build -t rueiii/2025cloud:web ./web
 docker build -t rueiii/2025cloud:api ./api
 ```
 
-建立成功後可以透過 ``` docker images``` 查看 image 是否建立完成。
+建立成功後可以透過 ```docker images``` 查看 image 是否建立完成。
