@@ -1,4 +1,4 @@
-FROM node:18
+FRM node:18
 WORKDIR /web
 COPY . .
 RUN npm install
